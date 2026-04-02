@@ -55,7 +55,7 @@ A reaction-based game built with Arduino/ESP32 where players must time their sho
 ---
 
 ## 🖼️ Product Overview
-![Bird Shooter Game Prototype](ProductOverview.jpeg)
+![Bird Shooter Game Prototype](assets/Product_Overview.jpeg)
 *The hardware setup featuring the ESP32, 16x2 LCD display, and the 4x4 LED Matrix interface.*
 
 ---
